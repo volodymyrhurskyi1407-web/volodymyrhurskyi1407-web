@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 About Me
+I'm a **Trainee Backend Developer**
 
-<!--
-**volodymyrhurskyi1407-web/volodymyrhurskyi1407-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Technical Toolkit
+- 💻 **Languages:** Python, C++
+- 🐳 **DevOps & Containers:** Docker
+- 🐧 **OS:** Linux
+- - **Tools & Environment:** Git, GitHub, VS Code, CMake, GCC
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=volodymyrhurskyi1407-web&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyrhurskyi1407-web&layout=compact&theme=dark" alt="Top Langs" />
+</p>
