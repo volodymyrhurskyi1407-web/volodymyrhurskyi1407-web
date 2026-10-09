@@ -5,7 +5,7 @@ I'm a **Trainee Backend Developer**
 - 💻 **Languages:** Python, C++
 - 🐳 **DevOps & Containers:** Docker
 - 🐧 **OS:** Linux
-- - **Tools & Environment:** Git, GitHub, VS Code, CMake, GCC
+- **Tools & Environment:** Git, GitHub, VS Code, CMake, GCC
 ### 📈 GitHub Stats
 
 <p align="center">
